@@ -12,4 +12,4 @@
 
 ![](https://github.com/AlekseiSmetanin/Researching-the-difficulty-of-passing-the-game/blob/master/Screenshots/Github%20project%205%20pic%202.PNG "Рисунок 2 – Пример обрабатываемых программой данных")
 
-Рисунок 2 – Пример обрабатываемых программой данных
+Рисунок 2 – Пример обрабатываемых программой  данных
